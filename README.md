@@ -25,7 +25,7 @@ Este projeto foi desenvolvido em um ambiente de notebook Jupyter (`.ipynb`). Par
 
 ## Resultados
 
-O modelo alcançou uma acurácia de validação de aproximadamente 97% na última época, 
+O modelo alcançou uma acurácia de validação de aproximadamente 97% na última época,
 demonstrando um excelente desempenho em dados novos. A acurácia de treino atingiu um pico de 100%,
 enquanto a acurácia de validação permaneceu alta, o que indica um
 bom aprendizado e generalização, apesar de uma pequena indicação de overfitting.
