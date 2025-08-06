@@ -1,6 +1,17 @@
 # Classificação de Imagens de Leões e Ursos com Transfer Learning
 
+## 📃**Desafio-DIO**
+
+
 Este projeto demonstra a criação de um classificador de imagens para identificar leões e ursos. A abordagem utiliza a técnica de **Transfer Learning** com a arquitetura VGG16, pré-treinada no conjunto de dados ImageNet.
+
+##  Tecnologias
+
+Esse projeto foi desenvolvido com as tecnologias:
+
+- COLAB
+- Python
+
 
 ## Descrição do Projeto
 
